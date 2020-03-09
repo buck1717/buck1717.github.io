@@ -6,11 +6,11 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://buck.github.io/"/>
-  <updated>2019-09-30T02:59:26.623Z</updated>
+  <updated>2020-03-09T10:24:25.868Z</updated>
   <id>http://buck.github.io/</id>
   
   <author>
-    <name>黎扬志</name>
+    <name>LiYangZhi</name>
     
   </author>
   
@@ -21,7 +21,7 @@
     <link href="http://buck.github.io/2019/09/30/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
     <id>http://buck.github.io/2019/09/30/我的第一篇博客/</id>
     <published>2019-09-29T16:40:18.000Z</published>
-    <updated>2019-09-30T02:59:26.623Z</updated>
+    <updated>2020-03-09T10:24:25.868Z</updated>
     
     <content type="html"><![CDATA[<h2 id="我的第一篇博客"><a href="#我的第一篇博客" class="headerlink" title="我的第一篇博客"></a>我的第一篇博客</h2><p>这是我的第一篇博客，会记录一些心得。无意间发现可以使用hexo+GitPages+CodingPage搭建个人博客。<br>便着手搭建自己的博客，往后会逐渐将自己以前学到的知识搬运到博客里，以方便自己记录自己的学习历程。</p>]]></content>
     
