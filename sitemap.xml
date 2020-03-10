@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://buck.github.io/2020/03/10/about/</loc>
+    
+    <lastmod>2020-03-10T03:13:52.546Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://buck.github.io/tags/index.html</loc>
+    
+    <lastmod>2020-03-09T17:26:22.337Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://buck.github.io/categories/index.html</loc>
+    
+    <lastmod>2020-03-09T17:25:25.975Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://buck.github.io/2019/09/30/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
     
     <lastmod>2020-03-09T16:39:01.090Z</lastmod>
