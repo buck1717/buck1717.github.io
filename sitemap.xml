@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://buck.github.io/2020/03/10/about/</loc>
+    <loc>http://buck.github.io/about/index.html</loc>
     
-    <lastmod>2020-03-10T03:13:52.546Z</lastmod>
+    <lastmod>2020-03-10T03:20:10.717Z</lastmod>
     
   </url>
   
@@ -40,13 +40,6 @@
     <loc>http://buck.github.io/2019/09/29/hello-world/</loc>
     
     <lastmod>2020-03-09T16:37:01.200Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://buck.github.io/about/index.html</loc>
-    
-    <lastmod>2019-09-30T08:48:40.656Z</lastmod>
     
   </url>
   
