@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://buck.github.io/2020/03/10/about/</loc>
+    
+    <lastmod>2020-03-10T04:17:29.886Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://buck.github.io/2019/09/30/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
+    
+    <lastmod>2020-03-10T03:43:43.247Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://buck.github.io/2019/09/29/hello-world/</loc>
+    
+    <lastmod>2020-03-10T03:43:34.382Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://buck.github.io/about/index.html</loc>
     
     <lastmod>2020-03-10T03:20:10.717Z</lastmod>
@@ -19,27 +40,6 @@
     <loc>http://buck.github.io/categories/index.html</loc>
     
     <lastmod>2020-03-09T17:25:25.975Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://buck.github.io/2019/09/30/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
-    
-    <lastmod>2020-03-09T16:39:01.090Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://buck.github.io/2019/09/30/Hello-World-0/</loc>
-    
-    <lastmod>2020-03-09T16:38:48.562Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://buck.github.io/2019/09/29/hello-world/</loc>
-    
-    <lastmod>2020-03-09T16:37:01.200Z</lastmod>
     
   </url>
   
